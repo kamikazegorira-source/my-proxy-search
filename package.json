@@ -1,0 +1,17 @@
+{
+  "name": "my-proxy-search",
+  "version": "1.0.0",
+  "description": "Google search proxy with SerpAPI",
+  "main": "myo-------n.js",
+  "scripts": {
+    "start": "node myo-------n.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^2.6.7"
+  }
+}
